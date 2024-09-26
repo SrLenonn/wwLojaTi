@@ -9,7 +9,7 @@ Depois de criar um projeto e instalar dependências com `npm install`, inicie um
 ```bash
 npm run dev
 
-# or start the server and open the app in a new browser tab
+# ou inicie o servidor e abra o aplicativo em uma nova guia do navegador
 npm run dev -- --open
 ```
 
