@@ -1,4 +1,7 @@
 # wwLojaTi
+
+A wwLojaTi é uma aplicação que simula um E-commerce de uma loja de equipamentos, onde você pode cadastrar itens ao catalogo, e posteriormente adicionalos ao carrinho
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
